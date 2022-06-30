@@ -3,3 +3,4 @@ LanguageDetection/*/*
 Credit-card-fraud/*.csv
 *.mp3
 Sentiments-twitter/*.csv
+test/*
